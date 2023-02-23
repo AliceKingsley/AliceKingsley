@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Marina Maksimova. I am a Frontend developer from Russia.
+- 👩🏻‍💻 I’m currently working on Javascript, Node.js.
+- 🎓 I’m currently learning TypeScript and JS improvements
+
 ### Connect with me:
 - <a href="https://www.linkedin.com/in/aliceinit/" target="blank">LinkedIn</a>
 - <a href="https://t.me/marina_maksim0va" target="blank">Telegram</a>
