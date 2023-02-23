@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I'm Marina Maksimova. I am a Frontend developer from Russia.
 - 👩🏻‍💻 I’m currently working on Javascript, Node.js.
